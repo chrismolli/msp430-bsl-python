@@ -1,0 +1,1 @@
+Install this firmware on the interface device to invoke the BSL and forward serial data.
